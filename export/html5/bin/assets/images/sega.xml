@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sega.png">
+<SubTexture name="sega logo0000" x="0" y="0" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0001" x="320" y="0" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0002" x="0" y="224" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0003" x="320" y="224" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0004" x="640" y="0" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0005" x="640" y="224" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0006" x="0" y="448" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0007" x="320" y="448" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0008" x="640" y="448" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0009" x="0" y="672" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0010" x="320" y="672" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0011" x="640" y="672" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0012" x="960" y="0" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0013" x="960" y="224" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0014" x="960" y="448" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0015" x="960" y="672" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0016" x="0" y="896" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0017" x="320" y="896" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0018" x="640" y="896" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0019" x="960" y="896" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0020" x="1280" y="0" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0021" x="1280" y="224" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0022" x="1280" y="448" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0023" x="1280" y="672" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+<SubTexture name="sega logo0024" x="1280" y="896" width="320" height="224" frameX="0" frameY="0" frameWidth="320" frameHeight="224" />
+</TextureAtlas>
