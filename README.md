@@ -1,6 +1,6 @@
 # Sonic the hedgehog Framework with HaxeFlixel
 
-[![DISCORD SERVER](https://img.shields.io/discord/1317043344039215154?style=for-the-badge&logo=Discord&label=Discord
+[![DISCORD SERVER](https://img.shields.io/discord/1151236517025546272?style=for-the-badge&logo=Discord&label=Discord
 )](https://discord.gg/gNv3QtWrQ5)
 
 Welcome to the **Sonic the hedgehog Framework** project! This is a custom framework built using [HaxeFlixel](https://haxeflixel.com/) for recreating or modding the classic Sonic the Hedgehog game. This project is designed to help developers and enthusiasts create their own Sonic-inspired games or mods using the power and flexibility of HaxeFlixel.
